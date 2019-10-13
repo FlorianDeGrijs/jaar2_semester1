@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aaec41e3-2acf-4eae-8720-3d9d6244b41f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RhXGMbc1Oh6e4C8UhQ9U5c8VuM" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../got19-team31" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="design.pattern.factory" />
+      <recent name="design.pattern.adapter2" />
+      <recent name="design.pattern.adapter" />
+      <recent name="code.school" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MainFactory">
+    <configuration name="MainAdapter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.pattern.adapter.MainAdapter" />
+      <module name="semester_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="design.pattern.adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainAdapter2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.pattern.adapter2.MainAdapter2" />
+      <module name="semester_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="design.pattern.adapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainDecorator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.pattern.decorator.MainDecorator" />
+      <module name="semester_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="design.pattern.decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.pattern.factory2.MainFactory" />
+      <module name="semester_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="design.pattern.factory2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainObserver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.pattern.observer.MainObserver" />
+      <module name="semester_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="design.pattern.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainDecorator" />
+      <item itemvalue="Application.MainObserver" />
+      <item itemvalue="Application.MainAdapter" />
+      <item itemvalue="Application.MainAdapter2" />
+      <item itemvalue="Application.MainFactory" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainFactory" />
+        <item itemvalue="Application.MainAdapter2" />
+        <item itemvalue="Application.MainAdapter" />
+        <item itemvalue="Application.MainObserver" />
+        <item itemvalue="Application.MainDecorator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aaec41e3-2acf-4eae-8720-3d9d6244b41f" name="Default Changelist" comment="" />
+      <created>1570120204880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570120204880</updated>
+      <workItem from="1570120208919" duration="2848000" />
+      <workItem from="1570213112294" duration="12000" />
+      <workItem from="1570386865658" duration="6564000" />
+      <workItem from="1570462602331" duration="5167000" />
+      <workItem from="1570790722895" duration="3401000" />
+      <workItem from="1570892162632" duration="20000" />
+      <workItem from="1570896182402" duration="8338000" />
+      <workItem from="1570982023898" duration="6190000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
