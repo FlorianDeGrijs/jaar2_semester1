@@ -1,7 +1,7 @@
 package design.pattern.singleton;
 
 public class Database {
-    private static Database singleDatabase;
+    private static Database singleDatabase = new Database("product");
     private int record;
     private String name;
 
@@ -21,9 +21,6 @@ public class Database {
     }
 
     public static Database getInstance(String name) {
-        if (singleDatabase == null) {
-            singleDatabase = new Database(name);
-        }
         return singleDatabase;
     }
 }

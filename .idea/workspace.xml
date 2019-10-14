@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aaec41e3-2acf-4eae-8720-3d9d6244b41f" name="Default Changelist" comment="" />
+    <list default="true" id="aaec41e3-2acf-4eae-8720-3d9d6244b41f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/adapter3/AceClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/adapter3/AcmeAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/adapter3/AcmeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/adapter3/AcmeInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/semester_1/design/pattern/factory2/MainFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/semester_1/design/pattern/factory2/MainFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/semester_1/design/pattern/factory2/PizzaStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/semester_1/design/pattern/factory2/PizzaStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/pattern/singleton/Connection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/pattern/singleton/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/pattern/singleton/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/pattern/singleton/MainSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/pattern/singleton/MainSingleton.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,17 +23,23 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit4 Test Class" />
         <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RhXGMbc1Oh6e4C8UhQ9U5c8VuM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -29,6 +47,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../got19-team31" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="design.pattern.singleton" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="design.pattern.factory" />
       <recent name="design.pattern.adapter2" />
@@ -48,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainFactory">
+  <component name="RunManager" selected="Application.MainSingleton">
     <configuration name="MainAdapter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="design.pattern.adapter.MainAdapter" />
       <module name="semester_1" />
@@ -68,19 +92,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="design.pattern.adapter2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainDecorator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design.pattern.decorator.MainDecorator" />
-      <module name="semester_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="design.pattern.decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,20 +125,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.pattern.singleton.MainSingleton" />
+      <module name="semester_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="design.pattern.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.MainDecorator" />
       <item itemvalue="Application.MainObserver" />
       <item itemvalue="Application.MainAdapter" />
       <item itemvalue="Application.MainAdapter2" />
       <item itemvalue="Application.MainFactory" />
+      <item itemvalue="Application.MainSingleton" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainSingleton" />
         <item itemvalue="Application.MainFactory" />
         <item itemvalue="Application.MainAdapter2" />
         <item itemvalue="Application.MainAdapter" />
         <item itemvalue="Application.MainObserver" />
-        <item itemvalue="Application.MainDecorator" />
       </list>
     </recent_temporary>
   </component>
@@ -148,11 +172,22 @@
       <workItem from="1570790722895" duration="3401000" />
       <workItem from="1570892162632" duration="20000" />
       <workItem from="1570896182402" duration="8338000" />
-      <workItem from="1570982023898" duration="6190000" />
+      <workItem from="1570982023898" duration="10018000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
