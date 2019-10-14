@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaec41e3-2acf-4eae-8720-3d9d6244b41f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/pattern/adapter3/AceClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/pattern/adapter3/AcmeAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/pattern/adapter3/AcmeClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/pattern/adapter3/AcmeInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/adapter3/MainAdapter3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/facade/DifficultProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/facade/MainFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/facade/ProductFacade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/semester_1/design/pattern/factory2/MainFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/semester_1/design/pattern/factory2/MainFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/semester_1/design/pattern/factory2/PizzaStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/semester_1/design/pattern/factory2/PizzaStore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design/pattern/singleton/Connection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design/pattern/singleton/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/pattern/singleton/Database.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design/pattern/singleton/MainSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/pattern/singleton/MainSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/semester_1/design/pattern/singleton/MainSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/semester_1/design/pattern/singleton/MainSingleton.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,20 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainSingleton">
-    <configuration name="MainAdapter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design.pattern.adapter.MainAdapter" />
-      <module name="semester_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="design.pattern.adapter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MainFacade">
     <configuration name="MainAdapter2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="design.pattern.adapter2.MainAdapter2" />
       <module name="semester_1" />
@@ -99,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design.pattern.factory2.MainFactory" />
+    <configuration name="MainAdapter3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.pattern.adapter3.MainAdapter3" />
       <module name="semester_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design.pattern.factory2.*" />
+          <option name="PATTERN" value="design.pattern.adapter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +94,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainObserver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design.pattern.observer.MainObserver" />
+    <configuration name="MainFacade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.pattern.facade.MainFacade" />
       <module name="semester_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design.pattern.observer.*" />
+          <option name="PATTERN" value="design.pattern.facade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.pattern.factory2.MainFactory" />
+      <module name="semester_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="design.pattern.factory2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,19 +134,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MainObserver" />
-      <item itemvalue="Application.MainAdapter" />
       <item itemvalue="Application.MainAdapter2" />
       <item itemvalue="Application.MainFactory" />
       <item itemvalue="Application.MainSingleton" />
+      <item itemvalue="Application.MainAdapter3" />
+      <item itemvalue="Application.MainFacade" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainFacade" />
+        <item itemvalue="Application.MainAdapter3" />
         <item itemvalue="Application.MainSingleton" />
         <item itemvalue="Application.MainFactory" />
         <item itemvalue="Application.MainAdapter2" />
-        <item itemvalue="Application.MainAdapter" />
-        <item itemvalue="Application.MainObserver" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +167,7 @@
       <workItem from="1570790722895" duration="3401000" />
       <workItem from="1570892162632" duration="20000" />
       <workItem from="1570896182402" duration="8338000" />
-      <workItem from="1570982023898" duration="10018000" />
+      <workItem from="1570982023898" duration="12272000" />
     </task>
     <servers />
   </component>
