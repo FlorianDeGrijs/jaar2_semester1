@@ -2,18 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaec41e3-2acf-4eae-8720-3d9d6244b41f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/design/pattern/adapter3/MainAdapter3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/pattern/facade/DifficultProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/pattern/facade/MainFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/pattern/facade/ProductFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/decorator2/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/decorator2/CondimentDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/decorator2/DarkRoast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/decorator2/Decaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/decorator2/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/decorator2/HouseBlend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/decorator2/MainDecorator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/decorator2/Milk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/decorator2/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/decorator2/Price.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/decorator2/Soy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/decorator2/Whip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/template/MainTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/template/RobotCookie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/template/RobotTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/MainHackerRank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/semester_1/design/pattern/singleton/MainSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/semester_1/design/pattern/singleton/MainSingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/semester_1/design/pattern/facade/MainFacade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/semester_1/design/pattern/facade/MainFacade.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -67,13 +93,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainFacade">
-    <configuration name="MainAdapter2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design.pattern.adapter2.MainAdapter2" />
+  <component name="RunManager" selected="Application.MainDecorator2">
+    <configuration name="MainAdapter3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.pattern.adapter3.MainAdapter3" />
       <module name="semester_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design.pattern.adapter2.*" />
+          <option name="PATTERN" value="design.pattern.adapter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainAdapter3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design.pattern.adapter3.MainAdapter3" />
+    <configuration name="MainDecorator2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.pattern.decorator2.MainDecorator2" />
       <module name="semester_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design.pattern.adapter3.*" />
+          <option name="PATTERN" value="design.pattern.decorator2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design.pattern.factory2.MainFactory" />
+    <configuration name="MainHackerRank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.MainHackerRank" />
       <module name="semester_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design.pattern.factory2.*" />
+          <option name="PATTERN" value="hackerrank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design.pattern.singleton.MainSingleton" />
+    <configuration name="MainTemplate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.pattern.template.MainTemplate" />
       <module name="semester_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design.pattern.singleton.*" />
+          <option name="PATTERN" value="design.pattern.template.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,19 +160,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MainAdapter2" />
-      <item itemvalue="Application.MainFactory" />
-      <item itemvalue="Application.MainSingleton" />
       <item itemvalue="Application.MainAdapter3" />
       <item itemvalue="Application.MainFacade" />
+      <item itemvalue="Application.MainTemplate" />
+      <item itemvalue="Application.MainHackerRank" />
+      <item itemvalue="Application.MainDecorator2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainDecorator2" />
+        <item itemvalue="Application.MainHackerRank" />
+        <item itemvalue="Application.MainTemplate" />
         <item itemvalue="Application.MainFacade" />
         <item itemvalue="Application.MainAdapter3" />
-        <item itemvalue="Application.MainSingleton" />
-        <item itemvalue="Application.MainFactory" />
-        <item itemvalue="Application.MainAdapter2" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +193,11 @@
       <workItem from="1570790722895" duration="3401000" />
       <workItem from="1570892162632" duration="20000" />
       <workItem from="1570896182402" duration="8338000" />
-      <workItem from="1570982023898" duration="12272000" />
+      <workItem from="1570982023898" duration="12295000" />
+      <workItem from="1571075803091" duration="10548000" />
+      <workItem from="1571177207594" duration="2188000" />
+      <workItem from="1571239312339" duration="5301000" />
+      <workItem from="1571334037228" duration="3536000" />
     </task>
     <servers />
   </component>
@@ -179,7 +209,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
