@@ -4,6 +4,7 @@ public abstract class Beverage {
 
     public enum Size {TALL, GRANDE, VENTI};
     Size size = Size.TALL;
+
     String description = "Unknown Beverage";
 
     public String getDescription() {

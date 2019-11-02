@@ -2,11 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaec41e3-2acf-4eae-8720-3d9d6244b41f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/design/pattern/decorator3/LowerCaseInputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/pattern/decorator3/MainDecorator3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/pattern/decorator3/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/template2/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/template2/MainTemplate2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/template3/MainTemplate3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/template3/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/LambdaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/LowerCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/packtpub/Conversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/packtpub/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/packtpub/MainPacktPub.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/semester_1/design/pattern/decorator2/MainDecorator2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/semester_1/design/pattern/decorator2/MainDecorator2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/semester_1/design/pattern/decorator2/Beverage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/semester_1/design/pattern/decorator2/Beverage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/semester_1/design/pattern/template/RobotCookie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/pattern/decorator2/Beverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/pattern/decorator2/Beverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/pattern/decorator2/CondimentDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/pattern/decorator2/CondimentDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/pattern/template/RobotCookie.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +44,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit4 Test Class" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -52,6 +64,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../got19-team31" />
   </component>
   <component name="RecentsManager">
@@ -80,13 +93,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainDecorator3">
-    <configuration name="MainDecorator2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design.pattern.decorator2.MainDecorator2" />
+  <component name="RunManager" selected="Application.MainPacktPub">
+    <configuration name="LambdaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.LambdaMain" />
       <module name="semester_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design.pattern.decorator2.*" />
+          <option name="PATTERN" value="lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainFacade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design.pattern.facade.MainFacade" />
+    <configuration name="MainPacktPub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.packtpub.MainPacktPub" />
       <module name="semester_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design.pattern.facade.*" />
+          <option name="PATTERN" value="lambda.packtpub.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainHackerRank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.MainHackerRank" />
+    <configuration name="MainTemplate2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.pattern.template2.MainTemplate2" />
       <module name="semester_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hackerrank.*" />
+          <option name="PATTERN" value="design.pattern.template2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTemplate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design.pattern.template.MainTemplate" />
+    <configuration name="MainTemplate3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.pattern.template3.MainTemplate3" />
       <module name="semester_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design.pattern.template.*" />
+          <option name="PATTERN" value="design.pattern.template3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,19 +160,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MainFacade" />
-      <item itemvalue="Application.MainTemplate" />
-      <item itemvalue="Application.MainHackerRank" />
-      <item itemvalue="Application.MainDecorator2" />
       <item itemvalue="Application.MainDecorator3" />
+      <item itemvalue="Application.MainTemplate2" />
+      <item itemvalue="Application.MainTemplate3" />
+      <item itemvalue="Application.LambdaMain" />
+      <item itemvalue="Application.MainPacktPub" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainPacktPub" />
+        <item itemvalue="Application.LambdaMain" />
+        <item itemvalue="Application.MainTemplate3" />
+        <item itemvalue="Application.MainTemplate2" />
         <item itemvalue="Application.MainDecorator3" />
-        <item itemvalue="Application.MainDecorator2" />
-        <item itemvalue="Application.MainHackerRank" />
-        <item itemvalue="Application.MainTemplate" />
-        <item itemvalue="Application.MainFacade" />
       </list>
     </recent_temporary>
   </component>
@@ -185,6 +198,11 @@
       <workItem from="1571177207594" duration="2188000" />
       <workItem from="1571239312339" duration="5301000" />
       <workItem from="1571334037228" duration="5202000" />
+      <workItem from="1572008544511" duration="8566000" />
+      <workItem from="1572098062250" duration="9612000" />
+      <workItem from="1572184820348" duration="142000" />
+      <workItem from="1572382501579" duration="6743000" />
+      <workItem from="1572722690910" duration="266000" />
     </task>
     <servers />
   </component>
