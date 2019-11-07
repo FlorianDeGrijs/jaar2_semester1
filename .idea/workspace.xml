@@ -2,25 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaec41e3-2acf-4eae-8720-3d9d6244b41f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resourses/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/binary_search_tree/BSTNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/binary_search_tree/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/binary_search_tree/MainBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/enum_e/Direction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/enum_e/MainEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/enum_e/activity34/DeptEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/enum_e/activity34/MainActivity34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/enum_e/activity35/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/enum_e/activity35/MainActivity35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/equals_hashcode/MainEqualsHashCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/equals_hashcode/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/exceptions/MainException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/exceptions/activity36/MainActivity36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/exceptions/checked_exception/MainCheckedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/exceptions/exc_vs_error/MainExcError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/exceptions/exc_vs_error/THFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/exceptions/unchecked_exception/MainUncheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/exceptions/activity37/MainActivity37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/exceptions/activity37/TooShortException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/exceptions/activity37/TooYoungException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/exceptions/chaining/MainChaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/exceptions/exception_not_caught/MainExceptionNotCaught.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/exceptions/finally_e/MainFinally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/exceptions/pipe_character/MainPipeCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/exceptions/throwable/EmptyInputException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/exceptions/throwable/MainThrowable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/exceptions/try_resource_block/MainTryResourceBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/exceptions/user_help/MainUserHelp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/exceptions/user_help/NonNumberInListException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub_algorithms_datastructures/MainAD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub_algorithms_datastructures/binary/MainBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub_algorithms_datastructures/octal/MainOctal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub_algorithms_datastructures/octal/OctalToDecimal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/packtpub/exceptions/unchecked_exception/MainUncheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/packtpub/exceptions/unchecked_exception/MainUncheckedException.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,13 +99,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainActivity36">
-    <configuration name="MainActivity35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="packtpub.enum_e.activity35.MainActivity35" />
+  <component name="RunManager" selected="Application.MainOctal">
+    <configuration name="MainActivity37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="packtpub.exceptions.activity37.MainActivity37" />
       <module name="semester_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="packtpub.enum_e.activity35.*" />
+          <option name="PATTERN" value="packtpub.exceptions.activity37.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainActivity36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="packtpub.exceptions.activity36.MainActivity36" />
+    <configuration name="MainBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="packtpub_algorithms_datastructures.binary.MainBinary" />
       <module name="semester_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="packtpub.exceptions.activity36.*" />
+          <option name="PATTERN" value="packtpub_algorithms_datastructures.binary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainEqualsHashCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="packtpub.equals_hashcode.MainEqualsHashCode" />
+    <configuration name="MainOctal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="packtpub_algorithms_datastructures.octal.MainOctal" />
       <module name="semester_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="packtpub.equals_hashcode.*" />
+          <option name="PATTERN" value="packtpub_algorithms_datastructures.octal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainExcError" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="packtpub.exceptions.exc_vs_error.MainExcError" />
+    <configuration name="MainTryResourceBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="packtpub.exceptions.try_resource_block.MainTryResourceBlock" />
       <module name="semester_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="packtpub.exceptions.exc_vs_error.*" />
+          <option name="PATTERN" value="packtpub.exceptions.try_resource_block.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="packtpub.exceptions.MainException" />
+    <configuration name="MainUserHelp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="packtpub.exceptions.user_help.MainUserHelp" />
       <module name="semester_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="packtpub.exceptions.*" />
+          <option name="PATTERN" value="packtpub.exceptions.user_help.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,19 +166,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MainActivity35" />
-      <item itemvalue="Application.MainEqualsHashCode" />
-      <item itemvalue="Application.MainException" />
-      <item itemvalue="Application.MainExcError" />
-      <item itemvalue="Application.MainActivity36" />
+      <item itemvalue="Application.MainActivity37" />
+      <item itemvalue="Application.MainTryResourceBlock" />
+      <item itemvalue="Application.MainUserHelp" />
+      <item itemvalue="Application.MainBinary" />
+      <item itemvalue="Application.MainOctal" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainActivity36" />
-        <item itemvalue="Application.MainExcError" />
-        <item itemvalue="Application.MainException" />
-        <item itemvalue="Application.MainEqualsHashCode" />
-        <item itemvalue="Application.MainActivity35" />
+        <item itemvalue="Application.MainOctal" />
+        <item itemvalue="Application.MainBinary" />
+        <item itemvalue="Application.MainUserHelp" />
+        <item itemvalue="Application.MainTryResourceBlock" />
+        <item itemvalue="Application.MainActivity37" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +212,7 @@
       <workItem from="1572885812577" duration="15653000" />
       <workItem from="1572983497962" duration="12084000" />
       <workItem from="1573066474236" duration="8425000" />
-      <workItem from="1573120585621" duration="2787000" />
+      <workItem from="1573120585621" duration="12753000" />
     </task>
     <servers />
   </component>
