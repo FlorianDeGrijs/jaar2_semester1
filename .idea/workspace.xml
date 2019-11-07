@@ -2,30 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaec41e3-2acf-4eae-8720-3d9d6244b41f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resourses/user.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resourses/user2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/MainReadingCSV/CSVReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/MainReadingCSV/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/MainReadingCSV/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/MainReadingCSV/UsersLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/MainReadingCSV/WageCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/MainReadingCSV/activity/MainActivity30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/comparator/AlphabeticComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/comparator/EmailComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/comparator/IDComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/comparator/MainComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/comparator/NameComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/linkedlist/MainLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/linkedlist/MyIntLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/linkedlist/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/linkedlist/NodeObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/linkedlist/ObjectLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/mail_sender/MainAllMailSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/mail_sender/MainMailSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packtpub/treeset/MainTreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resourses/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/binary_search_tree/BSTNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/binary_search_tree/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/binary_search_tree/MainBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/enum_e/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/enum_e/MainEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/enum_e/activity34/DeptEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/enum_e/activity34/MainActivity34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/enum_e/activity35/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/enum_e/activity35/MainActivity35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/equals_hashcode/MainEqualsHashCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/equals_hashcode/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/exceptions/MainException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/exceptions/activity36/MainActivity36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/exceptions/checked_exception/MainCheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/exceptions/exc_vs_error/MainExcError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/exceptions/exc_vs_error/THFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packtpub/exceptions/unchecked_exception/MainUncheckedException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/semester_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/semester_1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/packtpub/MainReadingCSV/MainReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/packtpub/MainReadingCSV/MainReader.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +47,7 @@
       <list>
         <option value="JUnit4 Test Class" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -104,13 +100,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainLinkedList">
-    <configuration name="MainAllMailSender" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="packtpub.mail_sender.MainAllMailSender" />
+  <component name="RunManager" selected="Application.MainActivity36">
+    <configuration name="MainActivity35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="packtpub.enum_e.activity35.MainActivity35" />
       <module name="semester_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="packtpub.mail_sender.*" />
+          <option name="PATTERN" value="packtpub.enum_e.activity35.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="packtpub.comparator.MainComparator" />
+    <configuration name="MainActivity36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="packtpub.exceptions.activity36.MainActivity36" />
       <module name="semester_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="packtpub.comparator.*" />
+          <option name="PATTERN" value="packtpub.exceptions.activity36.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="packtpub.linkedlist.MainLinkedList" />
+    <configuration name="MainEqualsHashCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="packtpub.equals_hashcode.MainEqualsHashCode" />
       <module name="semester_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="packtpub.linkedlist.*" />
+          <option name="PATTERN" value="packtpub.equals_hashcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainMailSender" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="packtpub.mail_sender.MainMailSender" />
+    <configuration name="MainExcError" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="packtpub.exceptions.exc_vs_error.MainExcError" />
       <module name="semester_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="packtpub.mail_sender.*" />
+          <option name="PATTERN" value="packtpub.exceptions.exc_vs_error.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="packtpub.treeset.MainTreeSet" />
+    <configuration name="MainException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="packtpub.exceptions.MainException" />
       <module name="semester_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="packtpub.treeset.*" />
+          <option name="PATTERN" value="packtpub.exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,19 +167,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MainComparator" />
-      <item itemvalue="Application.MainTreeSet" />
-      <item itemvalue="Application.MainMailSender" />
-      <item itemvalue="Application.MainAllMailSender" />
-      <item itemvalue="Application.MainLinkedList" />
+      <item itemvalue="Application.MainActivity35" />
+      <item itemvalue="Application.MainEqualsHashCode" />
+      <item itemvalue="Application.MainException" />
+      <item itemvalue="Application.MainExcError" />
+      <item itemvalue="Application.MainActivity36" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainLinkedList" />
-        <item itemvalue="Application.MainAllMailSender" />
-        <item itemvalue="Application.MainMailSender" />
-        <item itemvalue="Application.MainTreeSet" />
-        <item itemvalue="Application.MainComparator" />
+        <item itemvalue="Application.MainActivity36" />
+        <item itemvalue="Application.MainExcError" />
+        <item itemvalue="Application.MainException" />
+        <item itemvalue="Application.MainEqualsHashCode" />
+        <item itemvalue="Application.MainActivity35" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +211,9 @@
       <workItem from="1572382501579" duration="6743000" />
       <workItem from="1572722690910" duration="5908000" />
       <workItem from="1572885812577" duration="15653000" />
-      <workItem from="1572983497962" duration="9048000" />
+      <workItem from="1572983497962" duration="12084000" />
+      <workItem from="1573066474236" duration="8425000" />
+      <workItem from="1573120585621" duration="2787000" />
     </task>
     <servers />
   </component>
